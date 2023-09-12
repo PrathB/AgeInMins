@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="txtblue">#2F52E0</color>
+    <color name="bgcolor">#B5D2CB</color>
+    <color name="ublue">#0f4c5c</color>
+    <color name="agecolor">#d9d9d9</color>
+    <color name="btnbgcolor">#14213d</color>
+    <color name="datecolor">#2a9d8f</color>
+</resources>
